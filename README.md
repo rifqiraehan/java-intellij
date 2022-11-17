@@ -1,2 +1,2 @@
-# Menyimpan source code contoh program yang ada di buku lks PBO.
-Masuk ke -> <a href="https://github.com/rifqiraehan/java-intellij/tree/master/src/com/study">src/com/study</a>
+# Menyimpan </> LKS PBO
+### Langsung masuk ke <a href="https://github.com/rifqiraehan/java-intellij/tree/master/src/com/study">src/com/study</a>
